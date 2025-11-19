@@ -1,18 +1,19 @@
-   data/*.csv
-   data/*.txt
+data/*.csv
+data/*.txt
+data/
 
-   # Python
-   __pycache__/
-   *.pyc
-   .env
-   venv/
+__pycache__/
+*.pyc
+.env
+venv/
 
-   # Jupyter
-   .ipynb_checkpoints/
+# Jupyter
+.ipynb_checkpoints/
 
-   # Environment
-   .venv
+# Environment
+.venv
 
-   # IDE
-   .vscode/
-   .idea/
+# IDE
+.vscode/
+.idea/
+
